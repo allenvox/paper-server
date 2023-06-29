@@ -9,8 +9,8 @@ Already configured Minecraft server based on [@PaperMC](https://github.com/Paper
 4. start.sh — bash script to start the server (mostly took from [@Dymeth](https://github.com/Dymeth))
 
 ### 🏃 How to run the server?
-Linux: type `./start.sh` in Terminal
-Windows: `start.bat` - double-click / type in cmd/PowerShell
+Linux: type `./start.sh` in Terminal<br>
+Windows: type `start.bat` in cmd/PowerShell or double-click the file
 
 ### 💡 Features of the startup bash script
 1. Restarts the server on its crash or stop (to stop completely — press Ctrl+C on restart countdown)
